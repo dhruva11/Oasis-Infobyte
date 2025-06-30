@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import messagebox, TclError
+from tkinter import messagebox
 
 
 def calculate_bmi(weight, height_cm):
